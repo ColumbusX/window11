@@ -1,8 +1,8 @@
 # Windows11 RDP
 Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
-<img src="https://i.imgur.com/1QZfKzC.png" width="500" />
-
+<img src="https://cdn.vox-cdn.com/thumbor/3vU4TM6YN6N1fr4EovxPH1vzCeQ=/0x0:2639x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69455736/windows11.15.jpg" width="500" />
+## วิดิโอสอนการใช้แบบระเอียด
 ## METHOD:
 
 - ไปที่: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
@@ -17,13 +17,13 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 3. `./run.sh`
 
-- login (หรือ create an account) on https://ngrok.com/ 
+- login (หรือ create an account) ใน https://ngrok.com/ 
 
 - และcopy token ที่นี้: https://dashboard.ngrok.com/get-started/your-authtoken
 
 - วาง token ที่ terminal.
 - หลังจากสร้างแล้วจะให้ข้อมูลประจำตัวของ rdp . แก่คุณ.
-- คุณสามารถloginโดนใช้ **User** และ **Password**.
+- คุณสามารถloginโดยใช้ **User** และ **Password**.
 
 ## CREDITS:
 Original author: Thuonghai001
