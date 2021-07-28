@@ -12,7 +12,7 @@ Youtube :
 
 ### แล้วก็วางcommandsตามนี้:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/ColumbusX/Window11/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh`
 
 2. `chmod +x run.sh`
 
