@@ -3,6 +3,7 @@ Free Windows 11 RDP (1HOUR) - original author: Thuonghai001
 
 <img src="https://cdn.vox-cdn.com/thumbor/3vU4TM6YN6N1fr4EovxPH1vzCeQ=/0x0:2639x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69455736/windows11.15.jpg" width="500" />
 ## วิดิโอสอนการใช้แบบระเอียด
+Youtube :
 ## METHOD:
 
 - ไปที่: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
