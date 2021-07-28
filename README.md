@@ -10,9 +10,9 @@ Youtube :
 - กดปุ่ม **"START SCENARIO"**
 - ไปที่ **"Terminal 2"**
 
-### And paste the following commands:
+### แล้วก็วางcommandsตามนี้:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/ColumbusX/Windows11/main/run.sh`
 
 2. `chmod +x run.sh`
 
